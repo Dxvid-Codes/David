@@ -1,0 +1,5 @@
+- This is used for my resume (the original code that i wrote)
+- Can be used for your projects for FTC. If you plan to rewrite my sloppy code, feel free to reach out to my Discord (ult8516, if you are rewriting my code, please DM me you did. Othwerwise i might not see it)
+- The main thing you need to know is im only posting what im worked on, meaning that anything essentials i missed is stuff i didn't work on (so make it yourself)
+- Im not a professional coder (as of writing this), so this code is messy and sloppy. nothing is perfect. take it with a grain of salt.
+- 
